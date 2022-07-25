@@ -1,0 +1,2 @@
+# flights_delays
+ The dashboard gives an overview of which flight airways with their number of delays caused  by their various origin flights. It shows the number of times the causes had made impact to  flight delays. It was observed that delays were majorly caused by late Aircraft and Airline delays based on  the data given. The dashboard has two filters used in interacting with the chart. The filters are “Months” and “Airport”
